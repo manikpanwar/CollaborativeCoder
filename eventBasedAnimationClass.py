@@ -1,4 +1,5 @@
 # eventBasedAnimationClass.py
+# from 15-112 class website
 
 from Tkinter import *
 
